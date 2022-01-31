@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 Hello! I'm a 3rd year student at California State University Long Beach!
 I mainly want to lean about data security and AI systems.
